@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_profilepic.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\profilepic.webp"
+    },
+    {
+        "merged": "com.example.netclan.app-merged_res-32:/drawable_search_bar_layout.xml.flat",
+        "source": "com.example.netclan.app-main-34:/drawable/search_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_baseline_filter_list_24.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\baseline_filter_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxhdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxhdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_fragment_personal.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxxhdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxxhdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_layout_top_tabs.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\layout_top_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-mdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-mdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_activity_explore.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\activity_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.netclan.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.netclan.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_border_tabs.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\border_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.netclan.app-merged_res-32:/drawable_filter.xml.flat",
+        "source": "com.example.netclan.app-main-34:/drawable/filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_fragment_services.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\fragment_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_fragment__businesses.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\fragment__businesses.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-anydpi-v26_app_logo_round.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-anydpi-v26\\app_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxxhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxxhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xhdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xhdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xhdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xhdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-anydpi-v26_app_logo.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-anydpi-v26\\app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-hdpi_app_logo.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-hdpi\\app_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_activity_refine.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\activity_refine.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-hdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-hdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-mdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-mdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\layout_item_layout.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-mdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-mdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-xxxhdpi_app_logo_round.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-xxxhdpi\\app_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\mipmap-hdpi_app_logo_foreground.webp.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\mipmap-hdpi\\app_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-merged_res-32:\\drawable_app_logo_background.xml.flat",
+        "source": "C:\\Users\\S\\.gradle\\daemon\\8.7\\com.example.netclan.app-main-34:\\drawable\\app_logo_background.xml"
+    }
+]
